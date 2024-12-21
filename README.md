@@ -1,19 +1,23 @@
+######## Personal Notes ##########
+
+Hosted here: [https://password-generator.aschenbrenner.io](https://password-generator.aschenbrenner.io)
+
+This was done for the Scrimba Front End Developer Career Path training. I opted to do the stretch goals of:
+
+- Ability to set password length
+- Add copy-on-click
+- Toggle "symbols" and "numbers" on/off 
+
+Copy-on-click & Toggle "symbols" and "numbers" on/off turned out to be a lot more challanging than I thought but I'm glad I stuck with it and got them working as I think they look quite nice. 
+
+##################################
+
 # Getting Started
 Install the dependencies and run the project
 ```
 npm install
 npm start
 ```
-########Personal Notes##########
-This was done for the Scrimba Front End Developer Career Path training. I opted to do the stretch goals of:
-
-Ability to set password length
-Add copy-on-click
-Toggle "symbols" and "numbers" on/off 
-
-Copy-on-click & Toggle "symbols" and "numbers" on/off turned out to be a lot more challanging than I thought but I'm glad I stuck with it and got them working as I think they look quite nice. 
-
-################################
 
 ## About Scrimba
 
